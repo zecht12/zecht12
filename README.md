@@ -56,7 +56,7 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ### Zechtporto Dev
 
-![Zechtporto Dev](https://ucarecdn.com/7110502a-2301-4630-955e-05aac9379b1b/Screenshot_20240514_134653.png)
+![Zechtporto Dev](https://ucarecdn.com/5e889ee8-141d-48ec-94ed-983f01c125f5/carrent.png)
 
 **Description**: Web application for my portfolio.
 
@@ -74,7 +74,7 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ### Zechtnime Dev
 
-![Zechtnime Dev](https://ucarecdn.com/753d86a4-1e73-4c1d-85ee-6d4846221930/Screenshot_20240514_140612.png)
+![Zechtnime Dev](https://ucarecdn.com/e247ead4-1fc2-4403-9715-7002a5b92234/jobit.png)
 
 **Description**: Web application for displaying anime images, including fan art, some 18+ images, and more.
 
