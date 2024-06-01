@@ -38,7 +38,7 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ### Literacrypto Dev
 
-![Literacrypto Dev](https://ucarecdn.com/f8ab8a6b-48f4-433d-be61-d3fab1294d90/Screenshot_20240501_214816.png)
+![Literacrypto Dev](https://ucarecdn.com/5e889ee8-141d-48ec-94ed-983f01c125f5/carrent.png)
 
 **Description**: Web application for our crypto class membership, offering opportunities like coin calls, airdrops, and more.
 
@@ -56,7 +56,7 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ### Zechtporto Dev
 
-![Zechtporto Dev](https://ucarecdn.com/5e889ee8-141d-48ec-94ed-983f01c125f5/carrent.png)
+![Zechtporto Dev](https://ucarecdn.com/50e93cda-782a-4fbe-923e-cca19e28c2aa/Screenshot_20240514_134653.png)
 
 **Description**: Web application for my portfolio.
 
