@@ -1,6 +1,6 @@
 # Hi there, I'm Gilang Prima Ertansyah 👋
 
-I'm a passionate Fullstack Web Developer with a focus on building and designing web applications. My recent projects involve creating responsive web applications using Supabase for the database and Prisma as the ORM. I am proficient in TypeScript, JavaScript, and frameworks like Next.js, React, and Three.js.
+I'm a passionate Fullstack Web Developer with a focus on building and designing web applications. My recent projects involve creating responsive web applications using Supabase for the database and Prisma as the ORM. I am proficient in TypeScript, JavaScript, and frameworks like Next.js and ReactJs.
 
 ## About Me
 
