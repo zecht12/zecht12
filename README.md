@@ -25,9 +25,10 @@ I'm a passionate Fullstack Web Developer with a focus on building and designing 
 
 <br />
 
-## Here My Stats For Now
+## Here My Stats
 
 ![Zecht12 GitHub stats](https://github-readme-stats.vercel.app/api?username=zecht12&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecht12&layout=compact)
 
 ## Operating Systems
 
