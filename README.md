@@ -25,6 +25,10 @@ I'm a passionate Fullstack Web Developer with a focus on building and designing 
 
 <br />
 
+## Here My Stats For Now
+
+![Zecht12 GitHub stats](https://github-readme-stats.vercel.app/api?username=zecht12&show_icons=true&theme=radical)
+
 ## Operating Systems
 
 <img align="left" alt="Linux" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
