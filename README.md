@@ -24,13 +24,7 @@ I'm a passionate Fullstack Web Developer with a focus on building and designing 
 <img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
 <br />
-
-## Here My Stats
-
-![Zecht12 GitHub stats](https://github-readme-stats.vercel.app/api?username=zecht12&show_icons=true&theme=radical)
 <br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecht12&layout=compact)
 
 ## Operating Systems
 
@@ -38,6 +32,14 @@ I'm a passionate Fullstack Web Developer with a focus on building and designing 
 <img align="left" alt="Ubuntu" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
 
 <br />
+<br/>
+
+## Here My Stats
+
+![Zecht12 GitHub stats](https://github-readme-stats.vercel.app/api?username=zecht12&show_icons=true&theme=radical)
+<br/>
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecht12&layout=compact)
 
 ## Projects
 
