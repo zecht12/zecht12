@@ -95,7 +95,22 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 <br />
 <br />
 
-**Source Code**: [GitHub Repository](https://github.com/zecht12/Learning-2fa)
+### ATMI IGI Center - Sistem Manajemen Internal
+
+![Atmi IGI Center Dev](https://ucarecdn.com/7dffeb3a-81ce-4ebe-9103-882061aedeb0/Screenshot%202025-08-05%20114818.png)
+
+**Description**: An integrated web application designed to streamline and manage internal operational processes at PT. ATMI IGI CENTER. This system provides a centralized platform for various administrative and managerial tasks, from warehouse logistics to employee management.
+
+**Source Code**: [GitHub Repository](https://github.com/zecht12/atmi_igi_center_app.git)
+**Technologies**:
+<br />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<br />
+<br />
 
 <br />
 
