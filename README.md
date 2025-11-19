@@ -22,7 +22,7 @@ I'm a professional Fullstack Web Developer with a focus on building and designin
 <img align="left" alt="Prisma" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align="left" alt="Blender" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://static.cdnlogo.com/logos/l/57/laravel.svg" alt="Laravel"/>
 <br />
 <br/>
 
