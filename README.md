@@ -1,13 +1,13 @@
 # Hi there, I'm Gilang Prima Ertansyah 👋
 
-I'm a professional Fullstack Web Developer with a focus on building and designing web applications. My recent projects involve creating responsive web applications using Supabase for the database and Prisma as the ORM. I am proficient in TypeScript, JavaScript, and frameworks like Next.js, React, and Three.js.
+I'm a professional Fullstack Web Developer with a focus on building and designing web applications. My recent projects involve creating responsive web applications using Supabase for the database and Prisma as the ORM. I am proficient in TypeScript, JavaScript, and frameworks like Next.js, React, laravel, and Three.js. Currently i'm make website for ATMI IGI CENTER management Internal using laravel that integrate with Odoo and hrd.id(for absent).
 
 ## About Me
 
 - 💻 I specialize in Fullstack Web Development.
 - 🌟 I have strong skills in building and designing web applications.
 - 🎨 I'm also a skilled 3D artist using Blender.
-- 🛠 I am currently working with technologies like Next.js, Supabase, Prisma, and TypeScript.
+- 🛠 I am currently working with technologies like Next.js, Supabase, Prisma, Laravel, and TypeScript.
 - 🖌 For UI design, I use Canva.
 
 ## Technologies & Tools
@@ -22,7 +22,7 @@ I'm a professional Fullstack Web Developer with a focus on building and designin
 <img align="left" alt="Prisma" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 <img align="left" alt="Blender" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-
+<img align="left" alt="Canva" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <br />
 <br/>
 
