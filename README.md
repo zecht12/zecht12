@@ -29,7 +29,7 @@ I'm a professional Fullstack Web Developer with a focus on building and designin
 ## Operating Systems
 
 <img align="left" alt="Linux" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
+<img align="left" alt="Kubuntu" width="30px" style="padding: 2px; background-color: white; border-radius: 50%;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kubuntu_logo.svg" />
 
 <br />
 <br/>
