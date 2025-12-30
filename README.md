@@ -36,10 +36,13 @@ I'm a professional Fullstack Web Developer with a focus on building and designin
 
 ## Here My Stats
 
-![Zecht12 GitHub stats](https://github-readme-stats.vercel.app/api?username=zecht12&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zecht12&theme=radical)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zecht12&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zecht12&theme=radical)
+<br/>
+<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zecht12&theme=radical)
 
 ## Projects
 
