@@ -120,7 +120,7 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ## Get in Touch
 
-- **Email**: gilangprimaertansyah76@gmail.com
+- **Email**: zecht13@gmail.com
 - **Instagram**: [gilangprimae](https://www.instagram.com/gilangprimae?igsh=MTBsejU5Z3dwMmsyOQ==)
 - **WhatsApp**: [Chat with me](https://wa.me/6285865130221)
 
