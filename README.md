@@ -99,6 +99,23 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 <br />
 <br />
 
+### AI-Nime
+
+**Description**: A Next.js anime streaming & discovery platform. Metadata (browsing, search, details, recommendations) is powered by the AniList API and cached locally, with dedicated Browse (filter/search) and List A-Z pages, while episode streaming runs through a separate provider. Includes full auth (email verification, 2FA, password reset via NextAuth) and Cloudinary-backed profile management.
+
+**Source Code**: [GitHub Repository](https://github.com/zecht12/AI-Nime)
+
+**Technologies**:
+<br />
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/tailwind%20css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+<br />
+<br />
+
 ### ATMI IGI Center - Sistem Manajemen Internal
 
 ![Atmi IGI Center Dev](https://ucarecdn.com/7dffeb3a-81ce-4ebe-9103-882061aedeb0/Screenshot%202025-08-05%20114818.png)
