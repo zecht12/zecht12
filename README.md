@@ -101,6 +101,8 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 
 ### AI-Nime
 
+![AI-Nime](https://qz8wre3bxu.ucarecd.net/61e81b49-9b93-4885-8397-e3fa2206da44/Screenshot_20260720_110541.png)
+
 **Description**: A Next.js anime streaming & discovery platform. Metadata (browsing, search, details, recommendations) is powered by the AniList API and cached locally, with dedicated Browse (filter/search) and List A-Z pages, while episode streaming runs through a separate provider. Includes full auth (email verification, 2FA, password reset via NextAuth) and Cloudinary-backed profile management.
 
 **Source Code**: [GitHub Repository](https://github.com/zecht12/AI-Nime)
