@@ -135,6 +135,23 @@ I work on various projects, aiming to create efficient, scalable, and user-frien
 <br />
 <br />
 
+### Web Alumni - Sistem Digitalisasi Alumni Sekolah
+
+![Web Alumni](https://res.cloudinary.com/klwaxzfb/image/upload/v1784695668/Screenshot_20260722_114524_arz2nr.png)
+
+**Description**: A school alumni management platform that connects alumni, teachers, and the school in one integrated system. Features include an alumni directory with admin verification, job vacancy listings, tracer study tracking, teacher data management, news, PPDB (new student admission) info with poster management, and a permission-based admin privilege system.
+
+**Source Code**: [GitHub Repository](https://github.com/zecht12/web-alumni)
+
+**Technologies**:
+<br />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/tailwind%20css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<br />
+<br />
+
 <br />
 
 ## Get in Touch
